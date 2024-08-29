@@ -1,4 +1,4 @@
-## Oii! eu sou o Gustavo Costa
+## Olá! Nós somos a Ape Coding
 
 - 🔭 Atualmente trabalho com desenvolvimento Angular + .NET C# na VALID S/A
 - 🌱 Atualmente estudo Pós graduação Lato Sensu Segurança da Informação e Gestão de TI na Universidade Anhembi Morumbi 
