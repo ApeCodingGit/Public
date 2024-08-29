@@ -1,9 +1,9 @@
-## Olá! Nós somos a Ape Coding
+## Olá! Nós somos a Ape Coding 🍌
 
-- 🔭 Atualmente trabalho com desenvolvimento Angular + .NET C# na VALID S/A
-- 🌱 Atualmente estudo Pós graduação Lato Sensu Segurança da Informação e Gestão de TI na Universidade Anhembi Morumbi 
-- 🎸 Fun fact: Guitarrista nas horas vagas, me siga no TikTok para ver mais! @_guh.souza
-- ✉ Email: gustavo.souza64@hotmail.com
+- 🔭 Desenvolvendo Softwares robustos com a excelência que faz parecer fácil
+- 🌱 Desenvolvemos softwares proprietários, e projetos para a sua empresa. Entre em contato conosco!
+- 🐵 Fun fact: O nosso mascote se chama César, e não, ele não sabe falar. (ainda...)
+- ✉ Email: contact.apecoding@gmail.com
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
@@ -17,9 +17,9 @@
   
 ##
 <div>
- <a href="https://www.linkedin.com/in/gustavo-souza-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.tiktok.com/@_guh.souza" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavo.souza64@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/company/apecoding/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="(https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apecoding/)" target="_blank"></a>
+  <a href = "(https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact.apecoding@gmail.com)" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/GustavoSouza64/GustavoSouza64/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ApeCodingGit/ApeCodingGit/blob/output/github-contribution-grid-snake.svg)
