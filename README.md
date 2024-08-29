@@ -18,8 +18,8 @@
 ##
 <div>
  <a href="https://www.linkedin.com/company/apecoding/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="(https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/apecoding/)" target="_blank"></a>
-  <a href = "(https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contact.apecoding@gmail.com)" target="_blank"></a>
+ <a href="https://www.instagram.com/apecoding/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <a href="mailto:contact.apecoding@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
 </div>
   
 ![Snake animation](https://github.com/ApeCodingGit/ApeCodingGit/blob/output/github-contribution-grid-snake.svg)
