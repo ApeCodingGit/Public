@@ -1,8 +1,8 @@
 ## Olá! Nós somos a Ape Coding 🍌
 
 - 🔭 Desenvolvendo Softwares robustos com a excelência que faz parecer fácil.
-- 🌱 Desenvolvemos softwares proprietários, e projetos para a sua empresa. Entre em contato conosco!
-- 🐵 Fun fact: O nosso mascote se chama César, e não, ele não sabe falar. (ainda...)
+- 🌱 Produzimos soluções personalizadas e projetos para a sua empresa. Entre em contato conosco!
+- 🐵 Fun fact: O nosso mascote se chama César, e não, ele não sabe falar (ainda...).
 - ✉ Email: contact.apecoding@gmail.com
   
 <div style="display: inline_block"><br>
