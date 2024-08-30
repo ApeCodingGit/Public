@@ -1,9 +1,9 @@
 ## Olá! Nós somos a Ape Coding 🍌
 
 - 🔭 Desenvolvendo Softwares robustos com a excelência que faz parecer fácil.
-- 🌱 Produzimos soluções personalizadas e projetos para a sua empresa. Entre em contato conosco!
+- 🌱 Produzimos soluções personalizadas e projetos para a sua empresa!
 - 🐵 Fun fact: O nosso mascote se chama César, e não, ele não sabe falar (ainda...).
-- ✉ Email: contact.apecoding@gmail.com
+- ✉ Entre em contato: contact.apecoding@gmail.com
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
